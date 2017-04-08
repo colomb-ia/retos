@@ -3,7 +3,7 @@
 ## Supervised Learning
 #### Principiante
 #### Intermedio
-* [Titanic Dataset](supervised-intermedio-titanic) contruido por [Andres Velez](andres-velez).
+* [Titanic Dataset](https://github.com/colomb-ia/supervised-intermedio-titanic) contruido por [Andres Velez](andres-velez).
 #### Avanzado
 
 ## Reinforcement Learning
@@ -18,5 +18,3 @@
 
 
 [andres-velez]: https://github.com/anvelezec
-
-[supervised-intermedio-titanic]: https://github.com/colomb-ia/supervised-intermedio-titanic
