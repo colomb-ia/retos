@@ -3,9 +3,9 @@
 ## Supervised Learning
 #### Principiante
 #### Intermedio
-* [Titanic Dataset](https://github.com/colomb-ia/supervised-intermedio-titanic) contruido por [Andres Velez](https://github.com/anvelezec).
+* [Titanic Dataset](https://github.com/colomb-ia/supervised-intermedio-titanic) contribuido por [Andres Velez](https://github.com/anvelezec).
 #### Avanzado
-* [Traffic Signs Dataset](https://github.com/colomb-ia/supervised-avanzado-german-traffic-signs) contruido por [Cristian Garcia](https://github.com/cgarciae).
+* [Traffic Signs Dataset](https://github.com/colomb-ia/supervised-avanzado-german-traffic-signs) contribuido por [Cristian Garcia](https://github.com/cgarciae).
 
 
 ## Reinforcement Learning
