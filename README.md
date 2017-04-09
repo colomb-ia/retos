@@ -1,4 +1,4 @@
-# Retos
+# Retos colomb-ia
 
 ## Supervised Learning
 #### Principiante
