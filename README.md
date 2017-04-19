@@ -1,7 +1,7 @@
 # Retos colomb-ia
 
 ## Supervised Learning
-#### Principiante
+#### Basico
 #### Intermedio
 | Dataset | Descripcion | Contribuyente |
 | - | - | - |
@@ -13,11 +13,11 @@
 | [Traffic Signs Dataset](https://github.com/colomb-ia/supervised-avanzado-german-traffic-signs) | Construye un clasificador de señales de transito | [Cristian Garcia](https://github.com/cgarciae) |
 
 ## Reinforcement Learning
-#### Principiante
+#### Basico
 #### Intermedio
 #### Avanzado
 
 ## Visualizacion de Datos
-#### Principiante
+#### Basico
 #### Intermedio
 #### Avanzado
