@@ -2,10 +2,14 @@
 
 ## Supervised Learning
 #### Basico
+| Dataset | Descripcion | Contribuyente |
+| - | - | - |
+| [Iris Dataset](https://github.com/colomb-ia/supervised-basico-iris) | Contruye un clasificador de tipos de plantas | [Sebastian Pineda](https://github.com/sebastianpinedaar) |
+
 #### Intermedio
 | Dataset | Descripcion | Contribuyente |
 | - | - | - |
-| [Titanic Dataset](https://github.com/colomb-ia/supervised-intermedio-titanic) | | [Andres Velez](https://github.com/anvelezec) |
+| [Titanic Dataset](https://github.com/colomb-ia/supervised-intermedio-titanic) | Crea un predictor de supervivencia de los pasajeros del Titanic | [Andres Velez](https://github.com/anvelezec) |
 
 #### Avanzado
 | Dataset | Descripcion | Contribuyente |
