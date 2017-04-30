@@ -15,7 +15,7 @@
 #### Avanzado
 | Dataset | Descripcion | Contribuyente |
 | - | - | - |
-| [Traffic Signs Dataset](https://github.com/colomb-ia/supervised-avanzado-german-traffic-signs) | Construye un clasificador de señales de transito | [Cristian Garcia](https://github.com/cgarciae) |
+| [Traffic Signs Dataset](https://github.com/colomb-ia/supervised-avanzado-german-traffic-signs) | Construye un clasificador de imagenes de señales de transito | [Cristian Garcia](https://github.com/cgarciae) |
 
 ## Reinforcement Learning
 #### Basico
