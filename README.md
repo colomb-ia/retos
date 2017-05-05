@@ -17,7 +17,7 @@
 | - | - | - |
 | [Traffic Signs Dataset](https://github.com/colomb-ia/supervised-avanzado-german-traffic-signs) | Construye un clasificador de imágenes de señales de transito | [Cristian Garcia](https://github.com/cgarciae) |
 | [Yale Face Dataset](https://github.com/colomb-ia/supervised-avanzado-yale-face-recognition) | Contruye un clasificador de imágenes para reconocer distintos rostros de personas | [Carlos Alvarez](https://github.com/charlielito/) |
-| [MIT Face Dataset](https://github.com/colomb-ia/supervised-avanzado-mit-face-recognition) | ontruye un clasificador de imágenes para reconocer distintos rostros de personas  | [Carlos Alvarez](https://github.com/charlielito/) |
+| [MIT Face Dataset](https://github.com/colomb-ia/supervised-avanzado-mit-face-recognition) | Contruye un clasificador de imágenes para reconocer distintos rostros de personas  | [Carlos Alvarez](https://github.com/charlielito/) |
 
 ## Reinforcement Learning
 #### Basico
