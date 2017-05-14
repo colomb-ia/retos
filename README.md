@@ -11,6 +11,8 @@
 | - | - | - |
 | [Titanic Dataset](https://github.com/colomb-ia/supervised-intermedio-titanic) | Crea un predictor de supervivencia de los pasajeros del Titanic | [Andres Velez](https://github.com/anvelezec) |
 | [MNIST Dataset](https://github.com/colomb-ia/supervised-intermedio-mnist) | Contruye un clasificador de imagenes de digitos escritos a mano | [Cristian Garcia](https://github.com/cgarciae) |
+| [emo-DB](https://github.com/jcvasquezc/colomb-ia-supervised-emoDB) | Construye un clasificador para reconocer emociones en audio | [Camilo Vásquez](https://github.com/jcvasquezc) |
+
 
 #### Avanzado
 | Dataset | Descripcion | Contribuyente |
