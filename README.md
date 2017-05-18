@@ -5,7 +5,7 @@
 | Dataset | Descripcion | Contribuyente |
 | - | - | - |
 | [Iris Dataset](https://github.com/colomb-ia/supervised-basico-iris) | Contruye un clasificador de tipos de plantas | [Sebastian Pineda](https://github.com/sebastianpinedaar) |
-| [Wisconsin Diagnostic Breast Cancer](https://github.com/jcvasquezc/csupervised-cancer
+| [Wisconsin Diagnostic Breast Cancer](https://github.com/jcvasquezc/supervised-cancer
 ) | Construye un clasificador para reconocer cancer de piel segun caracteristicas de lunares | [Camilo Vásquez](https://github.com/jcvasquezc) |
 
 
