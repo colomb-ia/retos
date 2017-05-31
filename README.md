@@ -5,6 +5,7 @@
 | Dataset | Descripcion | Contribuyente |
 | - | - | - |
 | [Iris Dataset](https://github.com/colomb-ia/supervised-basico-iris) | Contruye un clasificador de tipos de plantas | [Sebastian Pineda](https://github.com/sebastianpinedaar) |
+| [Population vs Profit](https://github.com/colomb-ia/supervised-basico-population-vs-profit-1d) | Construye algoritmo que prediga las ganancias de un restaurante dada la poblacion de la ciudad | [Cristian Garcia](https://github.com/cgarciae) |
 | [Wisconsin Diagnostic Breast Cancer](https://github.com/jcvasquezc/supervised-cancer) | Construye un clasificador para reconocer cancer de piel segun caracteristicas de lunares | [Camilo Vásquez](https://github.com/jcvasquezc) |
 
 
