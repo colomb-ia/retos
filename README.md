@@ -7,6 +7,11 @@
 | [Iris Dataset](https://github.com/colomb-ia/supervised-basico-iris) | Contruye un clasificador de tipos de plantas | [Sebastian Pineda](https://github.com/sebastianpinedaar) |
 | [Population vs Profit](https://github.com/colomb-ia/supervised-basico-population-vs-profit-1d) | Construye algoritmo que prediga las ganancias de un restaurante dada la poblacion de la ciudad | [Cristian Garcia](https://github.com/cgarciae) |
 | [Wisconsin Diagnostic Breast Cancer](https://github.com/jcvasquezc/supervised-cancer) | Construye un clasificador para reconocer cancer de piel segun caracteristicas de lunares | [Camilo Vásquez](https://github.com/jcvasquezc) |
+| [Blobs](https://github.com/colomb-ia/supervised-basico-blobs) | Contruye un clasificador para este dataset artificial| [Cristian Garcia](https://github.com/cgarciae) |
+| [Circles](https://github.com/cgarciae/supervised-basico-circles) | Contruye un clasificador para este dataset artificial| [Cristian Garcia](https://github.com/cgarciae) |
+| [S-Curve](https://github.com/cgarciae/supervised-basico-scurve) | Contruye un algoritmo de regression para este dataset artificial| [Cristian Garcia](https://github.com/cgarciae) |
+| [Gaussian Quantiles](https://github.com/cgarciae/supervised-basico-gaussian-quantiles) | Contruye un clasificador para este dataset artificial| [Cristian Garcia](https://github.com/cgarciae) |
+| [Moons](https://github.com/cgarciae/supervised-basico-moons) | Contruye un clasificador para este dataset artificial| [Cristian Garcia](https://github.com/cgarciae) |
 
 
 #### Intermedio
