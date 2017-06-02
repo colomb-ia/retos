@@ -12,6 +12,8 @@
 | [S-Curve](https://github.com/cgarciae/supervised-basico-scurve) | Contruye un algoritmo de regression para este dataset artificial| [Cristian Garcia](https://github.com/cgarciae) |
 | [Gaussian Quantiles](https://github.com/cgarciae/supervised-basico-gaussian-quantiles) | Contruye un clasificador para este dataset artificial| [Cristian Garcia](https://github.com/cgarciae) |
 | [Moons](https://github.com/cgarciae/supervised-basico-moons) | Contruye un clasificador para este dataset artificial| [Cristian Garcia](https://github.com/cgarciae) |
+| [Admission Exams](https://github.com/cgarciae/supervised-basico-moons) | Contruye un clasificador para predecir si un estudiante entra a una universidad basado en resultados de exámenes| [Carlos Alvarez](https://github.com/charlielito) |
+| [Microchip tests](https://github.com/cgarciae/supervised-basico-moons) | Contruye un clasificador para predecir si un microchip es aceptado basado en el resultado de dos test der rendimiento| [Carlos Alvarez](https://github.com/charlielito) |
 
 
 #### Intermedio
