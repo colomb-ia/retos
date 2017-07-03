@@ -14,6 +14,8 @@
 | [Moons](https://github.com/cgarciae/supervised-basico-moons) | Contruye un clasificador para este dataset artificial| [Cristian Garcia](https://github.com/cgarciae) |
 | [Admission Exams](https://github.com/charlielito/supervised-basico-admission-exams) | Contruye un clasificador para predecir si un estudiante entra a una universidad basado en resultados de exámenes| [Carlos Alvarez](https://github.com/charlielito) |
 | [Microchip tests](https://github.com/charlielito/supervised-basico-microchip-tests) | Contruye un clasificador para predecir si un microchip es aceptado basado en el resultado de dos test der rendimiento| [Carlos Alvarez](https://github.com/charlielito) |
+| [Spirals](https://github.com/colomb-ia/supervised-basico-spirals) | Contruye un clasificador para este dataset artificial| [Cristian Garcia](https://github.com/cgarciae) |
+
 
 
 #### Intermedio
